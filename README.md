@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * Software Development Life Cycle (SDLC)
 * Software Design
 * Web Applications
-* Representational State Transfer (REST) Programming
+* Representational State Transfer (REST API)
 * Back-End Web Development
 * Front-End Web Development
 * Docker
