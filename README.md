@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 * Docker
 * Version Control (Git and GitHub)
 * Data Base (SQL and NoSQL)
+* Project Manager
