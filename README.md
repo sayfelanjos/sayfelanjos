@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Interests and Skills
+
+Software Development
+Agile Methodologies 
+Test Automation 
+Software Development Life Cycle (SDLC)
+Software Design
+Web Applications
+Representational State Transfer (REST) Programming
+Back-End Web Development
+Front-End Web Development
+Docker
+Version Control (Git and GitHub)
+Data Base (SQL and NoSQL)
