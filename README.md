@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I’m currently working and learning:
+## I’m currently working and learning with:
 
 * Software Development
 * Agile Methodologies 
