@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## I’m currently working and learning:
 
 * Software Development
+* DevOps
+* Cloud - AWS, GCP and Azure
 * Agile Methodologies 
 * Test Automation 
 * Software Development Life Cycle (SDLC)
