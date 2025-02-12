@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 * Back-End Web Development
 * Front-End Web Development
 * Docker
+* Kubernetes
+* Microservices
 * Version Control (Git and GitHub)
 * Data Base (SQL and NoSQL)
 * Project Manager
